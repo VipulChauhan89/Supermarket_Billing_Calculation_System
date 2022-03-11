@@ -1,11 +1,20 @@
-# **SUPERMARKET BILLING CALCULATION SYSTEM**
 
+      dP"8                                                              888              d8         888 88b, ,e, 888 888 ,e,                          e88'Y88         888                    888           d8   ,e,                          dP"8                   d8                       
+     C8b Y 8888 8888 888 88e   ,e e,  888,8, 888 888 8e   ,"Y88b 888,8, 888 ee  ,e e,   d88         888 88P'  "  888 888  "  888 8e   e88 888        d888  'Y  ,"Y88b 888  e88'888 8888 8888 888  ,"Y88b  d88    "   e88 88e  888 8e        C8b Y Y8b Y888P  dP"Y  d88    ,e e,  888 888 8e  
+      Y8b  8888 8888 888 888b d88 88b 888 "  888 888 88b "8" 888 888 "  888 P  d88 88b d88888       888 8K   888 888 888 888 888 88b d888 888       C8888     "8" 888 888 d888  '8 8888 8888 888 "8" 888 d88888 888 d888 888b 888 88b        Y8b   Y8b Y8P  C88b  d88888 d88 88b 888 888 88b 
+     b Y8D Y888 888P 888 888P 888   , 888    888 888 888 ,ee 888 888    888 b  888   ,  888         888 88b, 888 888 888 888 888 888 Y888 888        Y888  ,d ,ee 888 888 Y888   , Y888 888P 888 ,ee 888  888   888 Y888 888P 888 888       b Y8D   Y8b Y    Y88D  888   888   , 888 888 888 
+     8edP   "88 88"  888 88"   "YeeP" 888    888 888 888 "88 888 888    888 8b  "YeeP"  888         888 88P' 888 888 888 888 888 888  "88 888         "88,d88 "88 888 888  "88,e8'  "88 88"  888 "88 888  888   888  "88 88"  888 888       8edP     888    d,dP   888    "YeeP" 888 888 888 
+                     888                                                                                                               ,  88P                                                                                                        888                                     
+                     888                                                                                                              "8",P"                                                                                                         888                                     
+                                                                                                                                                                                                                                                                                                     
+# **SUPERMARKET BILLING CALCULATION SYSTEM** 
+                                       
 ## **Problem Statement**
-     Supermarket is the self-service shop where the customers come to purchase their daily using products and pay for that. 
+Supermarket is the self-service shop where the customers come to purchase their daily using products and pay for that. 
 
-     It is very difficult for the Supermarket team to manage the record of each and every item in the store and keep track of all the sales records and there is also a need to calculate how many products are sold and to generate the bill for the customer. 
+It is very difficult for the Supermarket team to manage the record of each and every item in the store and keep track of all the sales records and there is also a need to calculate how many products are sold and to generate the bill for the customer. 
 
-     So all these tasks are not simple and easier so what I did is keeping these points in my mind I build this project using C++ objects and classes concepts.
+So all these tasks are not simple and easier so what I did is keeping these points in my mind I build this project using C++ objects and classes concepts.
 
 #
 ## **INTRODUCTION**
@@ -13,13 +22,13 @@
 
 The project is on Supermarket Billing Calculation System.
 
-     In my project I have 2 users. First one is the Manager who has the rights to change the login details of himself and the cashier or to add the new manager or new cashier. The manager also has the rights to change the stock and price of the items of the supermarket and add new item to the supermarket in short we can say that the manager has the rights to update the stock of items in supermarket.
+In my project I have 2 users. First one is the Manager who has the rights to change the login details of himself and the cashier or to add the new manager or new cashier. The manager also has the rights to change the stock and price of the items of the supermarket and add new item to the supermarket in short we can say that the manager has the rights to update the stock of items in supermarket.
 
-     Second one is the cashier who only has the rights to generate the bill by accepting the items and the quantity of the item purchased by the customer and generate the bill according to the item list made by the manager and then finally print the bill and generate the text file of the bill and at last collect the cash.
+Second one is the cashier who only has the rights to generate the bill by accepting the items and the quantity of the item purchased by the customer and generate the bill according to the item list made by the manager and then finally print the bill and generate the text file of the bill and at last collect the cash.
 
-     This supermarket billing system is created to assist cashier workers to calculate the total price of items that are purchased by the customers. To make the cashier worker's job more convenient, the system allows them to type in the product name and the stock of products purchased, thus calculating the total bill. Besides that, the system allows the manager to add, edit, all the products.
+This supermarket billing system is created to assist cashier workers to calculate the total price of items that are purchased by the customers. To make the cashier worker's job more convenient, the system allows them to type in the product name and the stock of products purchased, thus calculating the total bill. Besides that, the system allows the manager to add, edit, all the products.
 
-     It also provide the manager to change his or her id password as well as the cashiers id password.
+It also provide the manager to change his or her id password as well as the cashiers id password.
 
 #
 ## **WORK FLOW**
